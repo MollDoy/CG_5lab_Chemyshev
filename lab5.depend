@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1713523867 source:d:\1\Сёма\Учёба\2 курс\2 семестр\Компьютерная графика\3 лаба\stb-master\main.cpp
+	<windows.h>
+	<gl/gl.h>
+	<math.h>
+	"camera.h"
+
+1713523972 source:d:\1\Сёма\Учёба\2 курс\2 семестр\Компьютерная графика\3 лаба\stb-master\camera.h
+
+1713524002 source:d:\1\Сёма\Учёба\2 курс\2 семестр\Компьютерная графика\3 лаба\stb-master\camera.cpp
+	<windows.h>
+	<gl/gl.h>
+	"camera.h"
+	<math.h>
+	<iostream>
+
+1713524002 source:d:\1\Сёма\Учёба\2 курс\2 семестр\Компьютерная графика\3 лаба\stb-master\camera.cpp
+	<windows.h>
+	<gl/gl.h>
+	"camera.h"
+	<math.h>
+	<iostream>
+
+1713523972 source:d:\1\Сёма\Учёба\2 курс\2 семестр\Компьютерная графика\3 лаба\stb-master\camera.h
+
+1713523867 source:d:\1\Сёма\Учёба\2 курс\2 семестр\Компьютерная графика\3 лаба\stb-master\main.cpp
+	<windows.h>
+	<gl/gl.h>
+	<math.h>
+	"camera.h"
+
+1713524002 source:d:\1\Сёма\Учёба\2 курс\2 семестр\Компьютерная графика\3 лаба\stb-master\camera.cpp
+	<windows.h>
+	<gl/gl.h>
+	"camera.h"
+	<math.h>
+	<iostream>
+
